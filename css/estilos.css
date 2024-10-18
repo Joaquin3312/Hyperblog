@@ -3,3 +3,11 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: aquamarine;
 }
+.container{
+    margin: 0 auto;
+    border: black 4px solid;
+    color: black;
+    border-radius: 1px;
+    width: 60%;
+    
+}
