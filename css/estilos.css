@@ -5,9 +5,29 @@ body{
 }
 .container{
     margin: 0 auto;
-    border: black 4px solid;
+    border: rgb(79, 79, 79) 1px solid;
     color: black;
+    border: 1px solid #DDD;
     border-radius: 1px;
     width: 60%;
+    text-align: left;
     
+}
+.cabecera{
+    color: rgb(219, 224, 224);
+    background: rgb(91, 91, 190);
+    text-align: left;
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5em;
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0,0.5);
+}
+.cabecera .tagline{
+    padding: 0 0 0  0.1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+.texto{
+    margin-left: 10px;
+    margin-right: 10px;
 }
